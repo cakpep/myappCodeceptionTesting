@@ -1,0 +1,13 @@
+#OS specific
+
+#IDE specific
+
+#Composer specific
+
+#Framework specific 
+
+#Codeception specific
+vendor/
+nbproject/
+tests/_log/*
+.idea
